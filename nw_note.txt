@@ -1,0 +1,7 @@
+    #  Connect to a linux server as root with SSH Keys – Vultr Infrastructure Cloud.   https://jsession4d.com/connect-to-a-linux-server-as-root-with-ssh-keys-vultr-infrastructure-cloud/
+    # how to connect and manage a vultr vps server using ssh keys in windows  https://letsknowtech.com/how-to-connect-a-vps-server-using-ssh-in-windows/
+    # vultr使用密钥登陆VPS  https://www.bawagon.com/vultrusekeylogin/
+    # 如何生成SSH密钥？（vultr） https://blog.51cto.com/u_10941874/5343802
+    # Download PuTTY: latest release (0.77) https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+    # vultr使用密钥登陆VPS  https://www.bawagon.com/vultrusekeylogin/
+    # winscp用密钥连接linux服务器和java程序用密钥连接服务器  https://blog.csdn.net/dazhanglao/article/details/121286292
