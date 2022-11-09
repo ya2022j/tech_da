@@ -20,3 +20,5 @@ Chrome DevTools https://developer.chrome.com/docs/devtools/
 基于NodeJS的基金数据爬虫，爬取的数据存于github的@nullpointer/fund-data。  https://github.com/nullpointer/fund-crawler
 
 playwright
+
+不用羡慕python！使用JS也可以爬虫 https://www.codenong.com/cs105961150/
