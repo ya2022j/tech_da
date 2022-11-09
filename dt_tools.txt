@@ -1,0 +1,22 @@
+splash官方文档 https://splash.readthedocs.io/en/stable/
+
+python3之Splash的具体使用  https://www.jb51.net/article/219166.htm
+
+关于scrapy_splash（截屏，get_cookies等） https://www.e-learn.cn/content/qita/800748
+爬虫进阶-JS自动渲染之Scrapy_splash组件的使用 https://www.jb51.net/article/221455.htm
+scrapy爬虫遇到js动态渲染问题 https://www.jb51.net/article/249568.htm
+
+
+JavaScript Web Crawler with Node.js: A Step-By-Step Tutorial  https://www.zenrows.com/blog/javascript-web-crawler-nodejs#whats-web-crawling
+
+
+
+Chrome DevTools https://developer.chrome.com/docs/devtools/
+
+用途：爬取知乎某一问题下所有回答里的照片~ https://github.com/zhuziyi1989/NodeZhihuCrawl
+
+使用JavaScript写爬虫  https://zhuanlan.zhihu.com/p/53763115
+
+基于NodeJS的基金数据爬虫，爬取的数据存于github的@nullpointer/fund-data。  https://github.com/nullpointer/fund-crawler
+
+playwright
